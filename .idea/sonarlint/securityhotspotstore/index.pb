@@ -7,3 +7,5 @@ I
 tests/competition.test.ts,3/1/31b416f743faf8461ef038062f0086a4c2f87b94
 J
 contracts/competition.clar,7/6/76a64ad9697d71a9491fc586f30d2b91fe3a9128
+>
+.gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
